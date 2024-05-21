@@ -19,16 +19,27 @@
 
 ## Use Case Diagram:
 
-![https://github.com/DhruvJawalkar/Low-Level-Design-using-OOD-principles-design-patterns-and-UML-diagrams/assets/5371976/e0334ff6-621f-49c5-a83c-44a073565350](https://github.com/DhruvJawalkar/Low-Level-Design-using-OOD-principles-design-patterns-and-UML-diagrams/blob/489667dbe2f5b4a970ff5e5116df0472910539ee/com.djawalkar.lld.system_design_with_examples/src/main/java/library_management_system/use-case-diagram.png)
+![https://github.com/DhruvJawalkar/Low-Level-Design-using-OOD-principles-design-patterns-and-UML-diagrams/assets/5371976/e0334ff6-621f-49c5-a83c-44a073565350](https://github.com/DhruvJawalkar/Low-Level-Design-using-OOD-principles-design-patterns-and-UML-diagrams/blob/489667dbe2f5b4a970ff5e5116df0472910539ee/com.djawalkar.lld.system_design_with_examples/src/main/java/library_management_system/uml-diagrams/use-case-diagram.png)
 
 ## Class Diagram:
 
-![https://github.com/DhruvJawalkar/Low-Level-Design-using-OOD-principles-design-patterns-and-UML-diagrams/blob/489667dbe2f5b4a970ff5e5116df0472910539ee/com.djawalkar.lld.system_design_with_examples/src/main/java/library_management_system/class-diagram.png](https://github.com/DhruvJawalkar/Low-Level-Design-using-OOD-principles-design-patterns-and-UML-diagrams/blob/489667dbe2f5b4a970ff5e5116df0472910539ee/com.djawalkar.lld.system_design_with_examples/src/main/java/library_management_system/class-diagram.png)
+![https://github.com/DhruvJawalkar/Low-Level-Design-using-OOD-principles-design-patterns-and-UML-diagrams/blob/489667dbe2f5b4a970ff5e5116df0472910539ee/com.djawalkar.lld.system_design_with_examples/src/main/java/library_management_system/uml-diagrams/class-diagram.png](https://github.com/DhruvJawalkar/Low-Level-Design-using-OOD-principles-design-patterns-and-UML-diagrams/blob/489667dbe2f5b4a970ff5e5116df0472910539ee/com.djawalkar.lld.system_design_with_examples/src/main/java/library_management_system/uml-diagrams/class-diagram.png)
 
 ## Sequence Diagrams:
 
 ### Issue Book
-![https://github.com/DhruvJawalkar/Low-Level-Design-using-OOD-principles-design-patterns-and-UML-diagrams/blob/d8b3a5001f5e498c7c32d999a5beb0b5f9c6c289/com.djawalkar.lld.system_design_with_examples/src/main/java/library_management_system/sequence-diagram-issue-book.png](https://github.com/DhruvJawalkar/Low-Level-Design-using-OOD-principles-design-patterns-and-UML-diagrams/blob/d8b3a5001f5e498c7c32d999a5beb0b5f9c6c289/com.djawalkar.lld.system_design_with_examples/src/main/java/library_management_system/sequence-diagram-issue-book.png)
+![https://github.com/DhruvJawalkar/Low-Level-Design-using-OOD-principles-design-patterns-and-UML-diagrams/blob/d8b3a5001f5e498c7c32d999a5beb0b5f9c6c289/com.djawalkar.lld.system_design_with_examples/src/main/java/library_management_system/uml-diagrams/sequence-diagram-issue-book.png](https://github.com/DhruvJawalkar/Low-Level-Design-using-OOD-principles-design-patterns-and-UML-diagrams/blob/d8b3a5001f5e498c7c32d999a5beb0b5f9c6c289/com.djawalkar.lld.system_design_with_examples/src/main/java/library_management_system/uml-diagrams/sequence-diagram-issue-book.png)
 
 ### Return Book (with opt Pay Fine) 
-![https://github.com/DhruvJawalkar/Low-Level-Design-using-OOD-principles-design-patterns-and-UML-diagrams/blob/d8b3a5001f5e498c7c32d999a5beb0b5f9c6c289/com.djawalkar.lld.system_design_with_examples/src/main/java/library_management_system/sequence-diagram-return-book-opt-pay-fine.png](https://github.com/DhruvJawalkar/Low-Level-Design-using-OOD-principles-design-patterns-and-UML-diagrams/blob/d8b3a5001f5e498c7c32d999a5beb0b5f9c6c289/com.djawalkar.lld.system_design_with_examples/src/main/java/library_management_system/sequence-diagram-return-book-opt-pay-fine.png)
+![https://github.com/DhruvJawalkar/Low-Level-Design-using-OOD-principles-design-patterns-and-UML-diagrams/blob/d8b3a5001f5e498c7c32d999a5beb0b5f9c6c289/com.djawalkar.lld.system_design_with_examples/src/main/java/library_management_system/uml-diagrams/sequence-diagram-return-book-opt-pay-fine.png](https://github.com/DhruvJawalkar/Low-Level-Design-using-OOD-principles-design-patterns-and-UML-diagrams/blob/d8b3a5001f5e498c7c32d999a5beb0b5f9c6c289/com.djawalkar.lld.system_design_with_examples/src/main/java/library_management_system/uml-diagrams/sequence-diagram-return-book-opt-pay-fine.png)
+
+## Activity Diagrams:
+
+### Checkout Book
+![https://github.com/DhruvJawalkar/Low-Level-Design-using-OOD-principles-design-patterns-and-UML-diagrams/blob/d8b3a5001f5e498c7c32d999a5beb0b5f9c6c289/com.djawalkar.lld.system_design_with_examples/src/main/java/library_management_system/uml-diagrams/activity-diagram-checkout-book.png](https://github.com/DhruvJawalkar/Low-Level-Design-using-OOD-principles-design-patterns-and-UML-diagrams/blob/d8b3a5001f5e498c7c32d999a5beb0b5f9c6c289/com.djawalkar.lld.system_design_with_examples/src/main/java/library_management_system/uml-diagrams/activity-diagram-checkout-book.png)
+
+### Return Book
+![https://github.com/DhruvJawalkar/Low-Level-Design-using-OOD-principles-design-patterns-and-UML-diagrams/blob/d8b3a5001f5e498c7c32d999a5beb0b5f9c6c289/com.djawalkar.lld.system_design_with_examples/src/main/java/library_management_system/uml-diagrams/activity-diagram-return-book.png](https://github.com/DhruvJawalkar/Low-Level-Design-using-OOD-principles-design-patterns-and-UML-diagrams/blob/d8b3a5001f5e498c7c32d999a5beb0b5f9c6c289/com.djawalkar.lld.system_design_with_examples/src/main/java/library_management_system/uml-diagrams/activity-diagram-return-book.png)
+
+### Renew Book
+![https://github.com/DhruvJawalkar/Low-Level-Design-using-OOD-principles-design-patterns-and-UML-diagrams/blob/d8b3a5001f5e498c7c32d999a5beb0b5f9c6c289/com.djawalkar.lld.system_design_with_examples/src/main/java/library_management_system/uml-diagrams/activity-diagram-renew-book.png](https://github.com/DhruvJawalkar/Low-Level-Design-using-OOD-principles-design-patterns-and-UML-diagrams/blob/d8b3a5001f5e498c7c32d999a5beb0b5f9c6c289/com.djawalkar.lld.system_design_with_examples/src/main/java/library_management_system/uml-diagrams/activity-diagram-renew-book.png)
